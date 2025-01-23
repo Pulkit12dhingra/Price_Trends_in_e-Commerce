@@ -72,6 +72,3 @@ joined_df.groupBy("brand").agg(
 ).write.csv("output/revenue_analysis", header=True, mode="overwrite")
 ```
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
