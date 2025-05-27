@@ -1,5 +1,5 @@
--- CS779 Advanced DBMS Term Project --- 
--- Anjana Nittur -- 
+-- Price Trends in e-commerce --- 
+-- Pulkit Dhingra -- 
 -- This code file is about creating tables based on the ERD diagram I designed
 
 SELECT current_database();

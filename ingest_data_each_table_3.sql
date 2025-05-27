@@ -1,5 +1,5 @@
 -- CS799 Advanced DBMS Term Project --- 
--- Anjana Nittur -- 
+-- Pulkit Dhingra -- 
 -- This code file is about ingesting data in respective tables based on the ERD diagram I designed
 
 SELECT * FROM staging_ebay_data LIMIT 10;

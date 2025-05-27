@@ -1,5 +1,5 @@
--- CS779 Advanced DBMS Term Project --- 
--- Anjana Nittur -- 
+-- Price Trends in e-commerce --- 
+-- Pulkit Dhingra -- 
 -- This code file is about creating tables for a data warehouse star schema
 
 -- check data types for all tables (these are dimension tables)

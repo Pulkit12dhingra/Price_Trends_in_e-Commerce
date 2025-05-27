@@ -1,5 +1,5 @@
--- CS779 Advanced DBMS Term Project --- 
--- Anjana Nittur -- 
+-- Price Trends in e-commerce --- 
+-- Pulkit Dhingra -- 
 -- This code file is about creating intermediate staging table(100k) as the kaggle data is 18M
 -- Then inserting data into specific tables based on the created intermediate staging table
 

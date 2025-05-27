@@ -1,5 +1,5 @@
--- CS779 Advanced DBMS Term Project --- 
--- Anjana Nittur -- 
+-- Price Trends in e-commerce --- 
+-- Pulkit Dhingra -- 
 -- This code file is about insertion of new data and verify how the code works for newly inserted data
 select * from sales;
 

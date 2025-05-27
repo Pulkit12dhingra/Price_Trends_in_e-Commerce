@@ -1,5 +1,5 @@
 -- CS799 Advanced DBMS Term Project --- 
--- Anjana Nittur -- 
+-- Pulkit Dhingra -- 
 -- This code file is about testing the data on topic: Denormalization
 
 CREATE TABLE order_history (

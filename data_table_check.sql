@@ -1,5 +1,5 @@
--- CS779 Advanced DBMS Term Project --- 
--- Anjana Nittur -- 
+-- Price Trends in e-commerce --- 
+-- Pulkit Dhingra -- 
 --- check each table and fill null values
 
 -- Select all records from each table
